@@ -23,6 +23,7 @@ NOTE: Because of how Behaviour Packs are namespaced, you need to INCLUDE the Pro
 
 ## Backlog
 - Make a seperate library for drag and drop installation of the Property Wizard putting everything in one place
-- Implement to a coding standard, clean up the mess.
+- Implement to a coding standard, clean up the mess
+- Add in a page for view/edit of the World DynamicProperties from this BP
 
 Contact [@TheWorldFoundry](https://bsky.app/profile/theworldfoundry.com) for help and assistance on a best-effort/all-care-no-responsibility basis.
