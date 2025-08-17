@@ -2,7 +2,7 @@
 
 View and edit Player and entity DynamicProperties in-game!
 
-![In-game example](https://github.com/abrightmoore/Property-Wizard-for-Bedrock-Creators/blob/main/example.gif?raw=true)
+![In-game example](https://github.com/abrightmoore/Property-Wizard-for-Bedrock-Creators/blob/main/example_wiz.gif?raw=true)
 
 ## Installation and Usage
 You can try this out in a test world by installing and running the supplied **.mcaddon** from the **installs** directory. The example shown above uses this build.
